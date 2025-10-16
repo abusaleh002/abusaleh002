@@ -15,6 +15,16 @@ I’m passionate about solving real-world business problems — from building pr
 While I’m open to full-time roles in **Data Science**, **Data Analysis**, and **Business Intelligence**,  
 I also collaborate with businesses and startups through **AS Analytics**, helping them automate reports, visualize KPIs, and make data-informed decisions.
 
+## 🚀 Featured Projects
+
+| Project | What it shows | Tools |
+|---|---|---|
+| [AI Sales Forecasting](https://github.com/abusaleh002/AI-Driven-Sales-Forecasting-Model-Python-AWS-SageMaker) | Predict sales with ML. Deployed training on AWS. | Python, TensorFlow, SageMaker |
+| [Retail KPI Dashboard](https://github.com/abusaleh002/Retail-Sales-Performance-Dashboard-Power-BI-DAX-Excel) | Interactive KPIs and DAX measures. | Power BI, DAX, Excel |
+| [GenAI Tools](https://github.com/abusaleh002/GenAI-Tools) | Resume Q&A and JD match with RAG. | Python, LangChain, FAISS |
+| [D3 Visualizations](https://github.com/abusaleh002/Interactive-Data-Visualization-D3.js-JavaScript) | Multi-page visual exploration. | D3.js, JS |
+
+
 ### 🔗 Links
 - **Professional Portfolio (Recruiters):** [Portfolio-AbuSaleh](https://abusaleh002.github.io/Portfolio-AbuSaleh/)  
 - **Analytics & Dashboard Services (Clients):** [AS Analytics](https://YOUR-AS-Analytics-LINK)  
