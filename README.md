@@ -58,7 +58,3 @@ While pursuing full-time roles in **Data Science**, **Analytics**, and **Busines
 When I’m not analyzing data or building dashboards, I explore new AI tools, mentor aspiring data professionals, and develop open-source analytics projects that make data more accessible and actionable.
 
 
----
-
-### ✨ About Me
-When I’m not analyzing data or building dashboards, I explore new AI tools, mentor aspiring data professionals, and develop open-source analytics solutions that make data easier to understand and use.
