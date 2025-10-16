@@ -5,5 +5,7 @@ I specialize in building data dashboards, automating analytics workflows, and cr
 Alongside my professional roles, I collaborate with small businesses through **AS Analytics**.  
 
 📫 Email: saleh.gannon.ds@gmail.com  
-🔗 Portfolio: [Recruiter Portfolio]  
-🔗 AS Analytics: [Freelance Portfolio]
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/abu-saleh-117f6b1a6a)  
+🔗 [Professional Portfolio](https://YOUR-PROFESSIONAL-PORTFOLIO)  
+🔗 [AS Analytics (Freelance Services)](https://YOUR-FREELANCE-PORTFOLIO)
+
